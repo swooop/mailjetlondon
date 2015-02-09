@@ -1,2 +1,1 @@
-# mailjetlondon
-Slides for a quick London devs meet
+Slides for LondonAPI made with reveal.js.
